@@ -1,0 +1,8 @@
+com/dkolovos/smart/farming/core/data/model/crop/CropStatus.class
+com/dkolovos/smart/farming/core/data/nosql/config/NoSqlConfig.class
+com/dkolovos/smart/farming/core/data/nosql/config/NoSqlConfig$ClientBuilder.class
+com/dkolovos/smart/farming/core/data/mapper/CropStatusMapper.class
+com/dkolovos/smart/farming/core/data/rdb/config/RdbConfig.class
+com/dkolovos/smart/farming/core/data/rdb/impl/crop/CropStatusRepositoryImpl.class
+com/dkolovos/smart/farming/core/data/mapper/EntityMapper.class
+com/dkolovos/smart/farming/core/data/model/crop/CropStage.class

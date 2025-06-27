@@ -1,0 +1,7 @@
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/rdb/config/RdbConfig.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/nosql/config/NoSqlConfig.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/model/crop/CropStatus.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/mapper/CropStatusMapper.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/mapper/EntityMapper.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/rdb/impl/crop/CropStatusRepositoryImpl.java
+/Users/dimitrioskolovos/NetBeans/r-and-d/smart-farming-core-data/src/main/java/com/dkolovos/smart/farming/core/data/model/crop/CropStage.java
